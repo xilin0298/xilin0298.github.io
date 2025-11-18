@@ -7,7 +7,7 @@ titles: about the author
   zh-CN   : *ZH_HANS
 key: page-about
 ---
-![我的头像](/touxiang.jpg){: width="150" height="150" style="border-radius: 50%; object-fit: cover;"}
+![我的头像](/touxiang.jpg){: width="100" height="100" style="border-radius: 50%; object-fit: cover;"}
 
 ## 关于我
 
