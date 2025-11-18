@@ -1,14 +1,15 @@
 ---
 layout: article
-titles:
+titles: about the author
   en      : &EN       About
   zh-Hans : &ZH_HANS  关于
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
 key: page-about
 ---
+![我的头像](/touxiang.jpg){: .avatar}
 
-# 关于我
+## 关于我
 
 我是 xilin Li，一名技术爱好者。
 
